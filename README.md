@@ -4,8 +4,8 @@ Math es un objeto Javascript disponible por defecto en Javascript y tiene muchas
 
 ### Constantes
 
-`Math.E`: Constante de Euler
-`Math.PI`: Número PI
+- `Math.E`: Constante de Euler
+- `Math.PI`: Número PI
 
 ### Operaciones Útiles
 
